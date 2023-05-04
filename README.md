@@ -26,7 +26,7 @@ Existem dois mapas no jogo: Main Menu e Game Map.
 Main Menu: O mapa nao e destrutivel. Comeca a tocar a musica de fundo. A plataforma da direita com bandeiras comeca o Game Map. A plataforma da esquerda com picos sai do jogo.
 Game Map: O mapa nao e destrutivel. Tem picos que tiram vida ao jogador. Moedas espalhadas para o jogador coletar. Bandeira de checkpoint. Bandeira de final de jogo.
 
-	Informacaoo no ecra
+	Informacao no ecra
 O ecra do jogo mostra a contagem de vidas do jogador e a contagem de moedas coletadas.
 
 	Teclas de Movimento Tradicionais
