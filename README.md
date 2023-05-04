@@ -5,7 +5,7 @@
 Um grupo de desenvolvedores criou um jogo divertido e desafiante chamado "Ze Mario". Neste artigo,
 vamos explicar como o jogo funciona e quais as decisoes foram tomadas para torna-lo um sucesso.
 
-	Introduo
+	Introducao
 "Ze Mario" e um jogo de plataforma oldschool que mistura elementos de Super Mario e Zelda.
 Foi desenvolvido por Luis Moreira, Pedro Saldanha e Rui Cardoso. O jogo apresenta o personagem principal,
 Ze Mario, que tem que enfrentar inimigos e superar obstaculos para chegar na bandeira e terminar o jogo.
